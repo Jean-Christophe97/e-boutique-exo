@@ -5,7 +5,9 @@ La partie frontend était déjà fournie.
 
 ## Instruction pour essayer l'application
 
-Cloner le [repo](https://github.com/OpenClassrooms-Student-Center/fullstack-activity) de l'application frontend.
+Cloner le [repo](https://github.com/OpenClassrooms-Student-Center/fullstack-activity) de l'application frontend dans un dossier
+`frontend`.
+Cloner le repo e-boutique-exo dans un dossier `backend`.
 
 Pour lancer l'application front-end executez `npm install` puis `npm start` depuis la racine du dossier frontend.
 
